@@ -20,7 +20,7 @@ title                    : "NaNa Studio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김지나"
-description              : "A Collection of my Fantasies-조그마한 공장 "
+description              : "A Collection of my Fantasies "
 url                      : "https://ginakim512.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ginakim512/ginakim512.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
